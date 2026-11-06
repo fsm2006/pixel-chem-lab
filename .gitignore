@@ -1,0 +1,7 @@
+# 本地开发/构建产物，不入库
+_backup/
+_shots/
+publish/
+node_modules/
+.DS_Store
+*.log
